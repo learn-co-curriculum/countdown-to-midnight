@@ -1,4 +1,4 @@
-# Countdown to Midnight
+# Countdown to Midnight Lab
 
 ## Objectives
 
